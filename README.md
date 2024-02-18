@@ -12,9 +12,9 @@ This README serves as a starting point, guiding you through the project step by 
 
 ## 🐣 Questions Addressed
 
-1. Introduction
+1. Context
 
-- [What is Syntax and Semantic?](./introduction/README.md)
-- [What is ontology in informatics?](./introduction/README.md)
-- [What are problems in the Web of Text?](./introduction/README.md)
-- [History of Semantic Web](./introduction/README.md)
+- [What is Syntax and Semantic?](./context/README.md)
+- [What is ontology in informatics?](./context/README.md)
+- [What are problems in the Web of Text?](./context/README.md)
+- [History of Semantic Web](./context/README.md)
