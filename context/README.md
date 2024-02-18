@@ -1,48 +1,27 @@
 # 💾 Sementic Technologies
 
-## 🚀 What is Syntax and Semantic? (Reference 1)
+## 🚀 Syntax vs. Semantics: Understanding the Difference (Reference 1)
 
-### How to differentiate Syntax and Semantic?
+### Syntax
 
-| Syntax                                    | Syntatic                                       |
-| ----------------------------------------- | ---------------------------------------------- |
-| Hierachy of the data                      | Meaning                                        |
-| Defines the allowed structure of the data | Define rules of syntatic correct sentences     |
-| Describes what good data is               | Defines what can be estimated out of the rules |
+- Focuses on structure and form. It's like the grammar of a language, dictating how things are arranged.
+- Example: `4+)=(` is syntactically wrong because it violates the rules of mathematical expression formation.
 
-Examples (Arithmetic):
+### Semantics:
 
-```java
-4+)=( //Syntatic wrong, -
-```
+- Focuses on meaning and interpretation. It's about what those structures actually convey.
+- Example: While syntactically correct, `3+4=12` is semantically wrong because the actual sum is 7.
 
-```java
-3+4=12 // Syntatic correct, semantic wrong
-```
+### Terms You Should Know:
 
-```java
-3+4=7 // Syntatic correct, semantic correct
-```
+- Semantic Technologies: Knowledge representation, systems, and expert systems.
+- Semantic Web: Expanding the web with meaning beyond simple documents, using technologies like RDF(S) and OWL.
+- Linked Data: Connecting data across different sources for wider knowledge access.
 
-### Terms
+### Remember:
 
-#### Semantic Technologies: ST
-
-- Knowledge Representation
-- Knowledge Systems
-- Experten Systems
-
-#### Semantic Web
-
-- Defined by Tim Berners-Lee et. al, 1994
-- Amend the WWW through ST
-- Technical: first RDF(S), later OWL
-
-#### Linked Data
-
-- "Semantic Web Done Right" (TBL, 2006)
-- Focus on cross-linking of sources
-- Linked Open Data: free accessable
+- Syntax is like the "how" while semantics is the "what".
+- Both are crucial for understanding communication and processing information.
 
 ## 🤘 What is ontology in informatics?
 
