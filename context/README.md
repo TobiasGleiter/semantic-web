@@ -59,6 +59,8 @@ The "Web of Text" lacks structure and context, leading to several obstacles:
 - **Search Queries:** "Bank" could refer to financial institutions or physical benches, confusing search engines.
 - **Synonyms:** Searching for synonyms can miss relevant information without understanding their semantic connections.
 
+![Seach query "Bank"](./images/search-bank.png)
+
 **2. Information Representation:**
 
 - **Unstructured formats:** Data within HTML documents lacks clear labeling, making it hard for machines to understand.
