@@ -16,5 +16,5 @@ This README serves as a starting point, guiding you through the project step by 
 
 - [What is Syntax and Semantic?](./context/README.md#-syntax-vs-semantics-understanding-the-difference-reference-1)
 - [What is ontology in informatics?](./context/README.md#-what-is-ontology-in-informatics-reference-1)
-- [What are problems in the Web of Text?](./context/README.md#-what-are-problems-in-the-web-of-text)
+- [What are problems in the Web of Text?](./context/README.md#-challenges-in-the-web-of-text)
 - [History of Semantic Web](./context/README.md#%EF%B8%8F-history-of-semantic-web)
