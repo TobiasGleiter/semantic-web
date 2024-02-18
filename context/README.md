@@ -88,7 +88,7 @@ Addressing these challenges will require advancements in Natural Language Proces
 
 ---
 
-Go back to [main](../README.md) or [Linked Data, URIs and RDF](../main/README.md)
+Go back to [main](../README.md) or [What's Missing from the Web of Text?](../main/README.md)
 
 ## 🦆 References
 
