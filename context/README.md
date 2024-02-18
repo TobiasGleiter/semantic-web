@@ -50,7 +50,33 @@ A definition by Tom Gruber 1993 and Willem Borst 1997 is: "An ontology is an for
 
 Ontology organizes info for smarter websites.
 
-## ❌ What are problems in the Web of Text?
+## ❌ Challenges in the Web of Text:
+
+The "Web of Text" lacks structure and context, leading to several obstacles:
+
+**1. Disambiguation:**
+
+- **Search Queries:** "Bank" could refer to financial institutions or physical benches, confusing search engines.
+- **Synonyms:** Searching for synonyms can miss relevant information without understanding their semantic connections.
+
+**2. Information Representation:**
+
+- **Unstructured formats:** Data within HTML documents lacks clear labeling, making it hard for machines to understand.
+- **Missing context:** Phone numbers, addresses, or dates appear without explicit labels like "phone," "address," or "date," creating ambiguity.
+
+**3. Information Extraction:**
+
+- **Incomplete information:** Key facts might be missing or hidden within large text bodies, hindering comprehensive knowledge extraction.
+- **Inconsistent formatting:** Variations in how information is presented (e.g., dates) make it challenging for machines to recognize and extract data consistently.
+
+**4. Reasoning and Inference:**
+
+- **Limited understanding:** Machines struggle to connect information across different sources and draw meaningful conclusions due to a lack of deeper understanding.
+- **Unsolved ambiguity:** Uncertainties caused by multiple interpretations of text remain unresolved, limiting the accuracy of inferences.
+
+### Rember
+
+Addressing these challenges will require advancements in Natural Language Processing (NLP) and text understanding to unlock the full potential of the "Web of Text."
 
 ## 🏛️ History of Semantic Web
 
