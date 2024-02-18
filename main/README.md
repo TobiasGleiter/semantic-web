@@ -37,6 +37,6 @@ To address these challenges, we need to incorporate semantics into the Web of Te
 - More effective machine learning and artificial intelligence applications
 - A more structured and interconnected web of information
 
-### Rember
+## Rember
 
 Incorporating semantics into the Web of Text will unlock its full potential, making it more accessible, understandable, and useful for both humans and machines.
