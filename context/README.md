@@ -88,6 +88,8 @@ Addressing these challenges will require advancements in Natural Language Proces
 
 ---
 
+Go back to [main](../README.md) or [Linked Data, URIs and RDF](../main/README.md)
+
 ## 🦆 References
 
 1. J., Hladik, "Semantic Web", Duale Hochschule Baden-Württemberg, Stuttgart (fetched February 2024)
