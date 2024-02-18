@@ -84,6 +84,8 @@ Addressing these challenges will require advancements in Natural Language Proces
 
 ## 🏛️ History of Semantic Web
 
+![Semantic Web Layer Cake](./images/sematic-web-layer-cake.png)
+
 ---
 
 ## 🦆 References
