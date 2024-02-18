@@ -1,6 +1,6 @@
 # 💾 Sementic Technologies
 
-\_Key words: Syntax/Semantics, Ontology, Challenges, History
+_Key words: Syntax/Semantics, Ontology, Challenges, History_
 
 ## 🚀 Syntax vs. Semantics: Understanding the Difference (Reference 1)
 
