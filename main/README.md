@@ -2,7 +2,7 @@
 
 _Key words: Requirements_
 
-## 🎛️ What's Missing from the Web of Text?
+## 🎛️ What's Missing from the Web of Text? (Reference 1)
 
 The Web of Text lacks several key elements that hinder its full potential:
 
@@ -40,3 +40,9 @@ To address these challenges, we need to incorporate semantics into the Web of Te
 ## Rember
 
 Incorporating semantics into the Web of Text will unlock its full potential, making it more accessible, understandable, and useful for both humans and machines.
+
+---
+
+## 🦆 References
+
+1. J., Hladik, "Semantic Web", Duale Hochschule Baden-Württemberg, Stuttgart (fetched February 2024)

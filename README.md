@@ -24,3 +24,5 @@ This README serves as a starting point, guiding you through the project step by 
 - [What's Missing from the Web of Text?](./main/README.md#%EF%B8%8F-whats-missing-from-the-web-of-text)
 
 3. Linked Data, URIs and RDF
+
+- [What is a URI?](./main/linked-data-uri-rdf/README.md)
