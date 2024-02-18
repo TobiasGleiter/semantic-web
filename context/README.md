@@ -31,7 +31,7 @@ Imagine a knoledge base as a treasure chest filled with information. **Ontology 
 
 A definition by Tom Gruber 1993 and Willem Borst 1997 is: "An ontology is an formal and explicit representation of a shared conceptualisation."
 
-### Book Website with Ontology:
+### Example: Book Website with Ontology:
 
 **Concepts:** Book, Author, Customer, Order.
 
