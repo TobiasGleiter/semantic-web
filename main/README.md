@@ -6,23 +6,23 @@ _Key words: Requirements_
 
 The Web of Text lacks several key elements that hinder its full potential:
 
-**Disambiguation of Homonyms:**
+### Disambiguation of Homonyms
 
 - Homonyms are words with the same spelling but different meanings (e.g., "bank" can refer to a financial institution or a riverbank).
 - Without disambiguation, search engines and other applications can't understand the intended meaning, leading to inaccurate results.
 
-**Meaning of Links:**
+### Meaning of Links
 
 - Links are essential for navigation and information discovery on the web.
 - However, the meaning of links (e.g., related content, source attribution, etc.) is often unclear.
 - This limits the ability of machines to understand and utilize the information structure effectively.
 
-**Relationships Between Elements:**
+### Relationships Between Elements
 
 - The relationships between different elements on a web page (e.g., photos, text, videos) are often implicit.
 - This makes it difficult for machines to understand the context and meaning of the content.
 
-**What's Needed: Semantics**
+## What's Needed: Semantics
 
 To address these challenges, we need to incorporate semantics into the Web of Text. This involves:
 
