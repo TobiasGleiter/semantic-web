@@ -18,23 +18,17 @@ Symantic:
 
 Examples (Arithmetic):
 
-```
-4+)=(
-```
-
-Syntatic wrong, -
-
-```
-3+4=12
+```java
+4+)=( //Syntatic wrong, -
 ```
 
-Sntatic correct, semantic wrong
-
-```
-3+4=7
+```java
+3+4=12 // Syntatic correct, semantic wrong
 ```
 
-Syntatic correct, semantic correct
+```java
+3+4=7 // Syntatic correct, semantic correct
+```
 
 ## 🤘 What is ontology in informatics?
 
