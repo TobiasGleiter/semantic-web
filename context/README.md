@@ -23,7 +23,32 @@
 - Syntax is like the "how" while semantics is the "what".
 - Both are crucial for understanding communication and processing information.
 
-## 🤘 What is ontology in informatics?
+## 🤘 What is ontology in informatics? (Reference 1)
+
+### Definition
+
+Imagine a knoledge base as a treasure chest filled with information. **Ontology acts as the key**, unlocking its meaning and structure. It provides formal, explicit way to define concepts, relationships, and rules within that knowledge.
+
+A definition by Tom Gruber 1993 and Willem Borst 1997 is: "An ontology is an formal and explicit representation of a shared conceptualisation."
+
+### Book Website with Ontology:
+
+**Concepts:** Book, Author, Customer, Order.
+
+**Relationships:** Written by (Book-Author), Purchased by (Book-Customer), Includes (Order-Book).
+
+**Rules:** Book requires title & author, Customer needs name & address, Order contains in-stock books.
+
+**Benefits:**
+
+- Precise search (genre, author)
+- Personalized recommendations
+- Consistent data
+- System integrations
+
+### Rember
+
+Ontology organizes info for smarter websites.
 
 ## ❌ What are problems in the Web of Text?
 
