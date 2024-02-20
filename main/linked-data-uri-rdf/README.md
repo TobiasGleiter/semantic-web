@@ -18,8 +18,8 @@ Imagine them as unique addresses for anything on the web, not just websites. Jus
 
 ### URLs, URNs and IRIs
 
-- URLs primarily address web pages
-- URNs (Uniform Resource Names) identify resources without relying on internet access, and
+- URLs identifies a specific resource (primarily address web pages)
+- URNs (Uniform Resource Names) identify resources without relying on internet access
 - IRIs (Internationalized Resource Identifiers) allow for Unicode characters.
 
 ### Using HTTP-URIs
@@ -32,10 +32,10 @@ Instead of using plain text labels, assign URIs to real-world entities like peop
 
 ## RDF
 
-RDF is modeling through pointed graphs. [RDF](https://www.w3.org/RDF/) is rcommandation by W3C. Constituents of RDF are:
+RDF is modeling through pointed graphs. [RDF](https://www.w3.org/RDF/) is a standard by W3C. Constituents of RDF are:
 
-- URIs: unambiguous referencing of resources Graph -> representation: ellipses
-- Literals: e.g. Numbers, Dates, Strings -> representation: rectangles
+- URIs: for unambiguous referencing of resources -> representation: ellipses
+- Literals: are values e.g. Numbers, Dates, Strings -> representation: rectangles
 - Empty Nodes: allows existence statements about an entity -> representation: empty ellipses
 
 ### Literals
