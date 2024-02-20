@@ -52,9 +52,9 @@ A RDF-Graph is a set of RDF-Triples.
 A RDF-Triple constists of a subject (start-node), Predicate (Edge), and an object (end-node).
 Allowed are:
 
-- Subject URI (or empty node)
-- Predicate URI
-- Predicate URI or loteral (or empty node)
+- Subject: URI (or empty node)
+- Predicate: URI
+- Object: URI or loteral (or empty node)
 
 ## ![RDF-Triple](../images/linked-data-uri-rdf/rdf-triple.png)
 
